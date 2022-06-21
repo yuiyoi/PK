@@ -3675,7 +3675,7 @@ textarea::selection {
 }
 
 .nav-global__item--anime::after {
-    background: #FFC286
+    background: #716E77
 }
 
 .nav-global__item--movie {
@@ -3683,7 +3683,7 @@ textarea::selection {
 }
 
 .nav-global__item--movie::after {
-    background: #FDF077
+    background: #716E77
 }
 
 .nav-global__item--game {
@@ -3691,7 +3691,7 @@ textarea::selection {
 }
 
 .nav-global__item--game::after {
-    background: #FFA6A6
+    background: #716E77
 }
 
 .breadcrumb {
@@ -4921,6 +4921,7 @@ table th,
 
 .card__content {
     padding: 15px 15px 50px
+text-align:center;
 }
 
 @media screen and (max-width: 767px) {
@@ -4936,6 +4937,7 @@ table th,
 }
 
 .card__content p {
+    
     margin: 0;
     font-size: 1.6rem;
     line-height: 1.375;
@@ -5000,6 +5002,7 @@ table th,
 .card__category--game .card__thumb {
     border-color: #FFA6A6
 }
+
 .card__category--game .card__thumb-1 {
     border-color: #FFA6A6
 }
@@ -6087,7 +6090,7 @@ table th,
     border-bottom-color: #ff9600
 }
 
- 
+
 
 .article-detail--notice .article-detail__category,
 .article-detail--notice .article-detail__information-heading {
