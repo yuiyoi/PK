@@ -4704,7 +4704,7 @@ table th,
 
 .card__element {
     width: calc(25% - 10px);
-    margin: 0 5px 40px;
+    margin: 0 51px 40px;
     background: #FFF;
     border-radius: 3px;
     overflow: hidden;
