@@ -4704,7 +4704,7 @@ table th,
 
 .card__element {
     width: calc(25% - 10px);
-    margin: 0 50px 40px;
+    margin: 0 5px 40px;
     background: #FFF;
     border-radius: 3px;
     overflow: hidden;
@@ -4932,48 +4932,48 @@ table th,
 }
 
 .card__category--movie .card__header {
-    background: #ff9600
+    background: #FDF077
 }
 
 .card__category--movie .card__thumb {
-    border-color: #ff9600
+    border-color: #FDF077
 }
 
 .card__category--movie .card__footer--date {
-    color: #ff9600
+    color: #FDF077
 }
 
 .card__category--movie .card__products-title {
-    color: #ff9600
+    color: #FDF077
 }
 
 .card__category--movie .card__container::after {
-    background: #ff9600
+    background: #FDF077
 }
 
 .card__category--anime .card__header {
-    background: #03a9f4
+    background: #FFC286
 }
 
 .card__category--anime .card__thumb {
-    border-color: #03a9f4
+    border-color: #FFC286
 }
 
 .card__category--anime .card__footer--date {
-    color: #03a9f4
+    color: #FFC286
 }
 
 .card__category--movie .card__products-title {
-    color: #03a9f4
+    color: #FDF077
 }
 
 .card__category--anime .card__container::after {
-    background: #03a9f4
+    background: #FFC286
 }
 
 
 .card__category--movie .card__products-title {
-    color: #4caf50
+    color: #FDF077
 }
 
 .card__category--game .card__header {
@@ -4998,7 +4998,7 @@ table th,
 
 
 .card__category--movie .card__products-title {
-    color: #795548
+    color: #FDF077
 }
 
 
