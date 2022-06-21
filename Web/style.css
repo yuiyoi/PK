@@ -4754,6 +4754,11 @@ table th,
     border-bottom: 4px solid
 }
 
+.card__thumb-1 {
+    margin: 0;
+    border-bottom: 4px solid
+}
+
 .card__thumb img {
     width: 50%;
     display: block
@@ -4986,6 +4991,9 @@ table th,
 }
 
 .card__category--game .card__thumb {
+    border-color: #FFA6A6
+}
+.card__category--game .card__thumb-1 {
     border-color: #FFA6A6
 }
 
