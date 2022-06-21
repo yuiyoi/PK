@@ -4755,7 +4755,12 @@ table th,
 }
 
 .card__thumb img {
-    width: 100%;
+    width: 50%;
+    display: block
+}
+
+.card__thumb-1 img {
+    width: 80%;
     display: block
 }
 
