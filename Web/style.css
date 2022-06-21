@@ -3633,6 +3633,13 @@ textarea::selection {
     }
 }
 
+@media screen and (min-width: 768px) {
+
+    .nav-global__item > a:hover,
+    .nav-global__item > a.nav-global__item--current {
+        color: #FFF
+    }
+}
 
 .nav-global__item > a span {
     position: relative;
